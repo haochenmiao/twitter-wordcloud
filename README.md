@@ -7,7 +7,7 @@ The reason for making this comparison was to understand how the concepts of God,
 By comparing the word clouds from Seattle, Washington DC, and Brisbane, it is possible to observe the difference in the frequency of the words used. For example, certain words might be used more frequently in one location than the other, indicating that those concepts are more prevalent or more discussed in that specific location. Additionally, the words that are used in conjunction with each other might also differ between locations, indicating how the concepts are related and perceived differently in different locations.
 The patterns observed in the word clouds might be the result of the specific geographical area and the time frame chosen for the search. For example, certain religious or political events or movements in the area might influence the way the keywords are discussed. Additionally, the patterns might also be influenced by the specific keywords chosen and how they relate to each other. For example, the word "God" might be used more frequently in Washington DC, which is known for its strong religious history and presence, compared to Brisbane, which might not have as strong of a religious presence.
 
-Comparing the word clouds from Seattle, Washington DC, and Brisbane, we can observe that there are some similarities and some differences in the way the concepts are discussed on social media in different geographical areas.
+We can also observe that there are some similarities and some differences in the way the concepts are discussed on social media in different geographical areas.
 In terms of similarities, all three locations have a high frequency of the words "God" and "love". This suggests that these concepts are commonly discussed across all three locations, regardless of the cultural or social context. Additionally, all three locations also have a high frequency of words such as "Christian" and "Jesus Christ", which further confirms that these concepts are commonly discussed across all three locations.
 In terms of differences, the word cloud from Washington DC has a higher frequency of the words "judgmental" and "hypocritical" compared to the word clouds from Seattle and Brisbane. This suggests that these concepts may be more prevalent or more discussed in Washington DC, compared to the other two locations. Additionally, the word cloud from Washington DC has a higher frequency of the word "compassionate" compared to the word clouds from Seattle and Brisbane, which may indicate that this concept is more prevalent or more discussed in Washington DC.
 The reason why these locations represent different context is that they are in different countries and have different cultural, social and political contexts. Seattle and Washington DC are both located in the United States and share similar cultural and political contexts, while Brisbane is located in Australia and has a different cultural, social and political context. Therefore, the way the concepts are discussed on social media in these locations may be influenced by the specific context of each location.
@@ -22,15 +22,15 @@ In conclusion, this research provided a comparison of how the concepts of God, j
 
 ![Word Art-2](https://user-images.githubusercontent.com/83092146/213959819-173f4e4f-6628-42e6-b489-53b91cd0b210.png)
 This is the word cloud for the Brisbane
-[This is an external link to the csv file](https://github.com/haochenmiao/twitter-wordcloud/blob/main/Assets/twsearch-result-2.csv)
+[twsearch-result-2.csv](https://github.com/haochenmiao/twitter-wordcloud/files/10477348/twsearch-result-2.csv)
 
 ![Word Art-3](https://user-images.githubusercontent.com/83092146/213959941-08e10f10-ebbd-4315-b502-44699b16bd87.png)
 This is the word cloud for the Washington DC
-[This is an external link to csv file](https://github.com/haochenmiao/twitter-wordcloud/blob/main/Assets/twsearch-result-3.csv)
+[twsearch-result-3.csv](https://github.com/haochenmiao/twitter-wordcloud/files/10477350/twsearch-result-3.csv)
 
 ![Word Art-1](https://user-images.githubusercontent.com/83092146/213959997-84b96767-80d4-4100-980f-69b6d71cb1f3.png)
 This is the word cloud for the Seattle
-[This is an external link to csv file](https://github.com/haochenmiao/twitter-wordcloud/blob/main/Assets/twsearch-result-1.csv)
+[twsearch-result-1.csv](https://github.com/haochenmiao/twitter-wordcloud/files/10477353/twsearch-result-1.csv)
 
 
 
