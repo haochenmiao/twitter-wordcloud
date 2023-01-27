@@ -22,15 +22,15 @@ In conclusion, this research provided a comparison of how the concepts of God, j
 
 ![Word Art - 2png](https://user-images.githubusercontent.com/83092146/214977853-d723864f-7b31-45f0-b305-edb5b5bb4434.png)
 This is the word cloud for the Brisbane
-[twsearch-result-2.csv](https://github.com/haochenmiao/twitter-wordcloud/files/10477348/twsearch-result-2.csv)
+[twsearch-result-2.csv](https://github.com/haochenmiao/twitter-wordcloud/blob/main/Assets/twsearch-result%20-%202.csv)
 
 ![Word Art - 3](https://user-images.githubusercontent.com/83092146/214978009-0b14cf73-3484-459b-a7ef-f87fcd75ef8a.png)
 This is the word cloud for the Washington DC
-[twsearch-result-3.csv](https://github.com/haochenmiao/twitter-wordcloud/files/10477350/twsearch-result-3.csv)
+[twsearch-result-3.csv](https://github.com/haochenmiao/twitter-wordcloud/blob/main/Assets/twsearch-result%20-%203.csv)
 
 ![Word Art - 1](https://user-images.githubusercontent.com/83092146/214978071-80291701-41dd-4cc5-a49f-10cca74014ae.png)
 This is the word cloud for the Seattle
-[twsearch-result-1.csv](https://github.com/haochenmiao/twitter-wordcloud/files/10477353/twsearch-result-1.csv)
+[twsearch-result-1.csv](https://github.com/haochenmiao/twitter-wordcloud/blob/main/Assets/twsearch-result%20-%201.csv)
 
 
 
