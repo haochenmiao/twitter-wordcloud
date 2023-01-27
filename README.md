@@ -20,17 +20,19 @@ One thing that stands out to me from the data is that while the word "God" is pr
 
 In conclusion, this research provided a comparison of how the concepts of God, judgment, hypocrisy, compassion, Christianity, Jesus Christ, love, and hate are discussed on social media in Washington DC and Brisbane and Seattle. The comparison showed that there were similarities and differences in the way these concepts are perceived and discussed in different geographical areas. Additionally, the research also highlighted the impact of cultural, social and political factors on how these concepts are perceived and discussed in different areas.
 
-![Word Art - 2png](https://user-images.githubusercontent.com/83092146/214977853-d723864f-7b31-45f0-b305-edb5b5bb4434.png)
+
+![Word Art - 1](https://user-images.githubusercontent.com/83092146/214982243-e9d153c2-28d8-49d0-b1da-dbfc9cbab181.png)
+This is the word cloud for the Seattle
+[twsearch-result-1.csv](https://github.com/haochenmiao/twitter-wordcloud/blob/main/Assets/twsearch-result%20-%201.csv)
+
+![Word Art - 2](https://user-images.githubusercontent.com/83092146/214982270-e2f22d15-2e62-4088-bac4-967ffa943361.png)
 This is the word cloud for the Brisbane
 [twsearch-result-2.csv](https://github.com/haochenmiao/twitter-wordcloud/blob/main/Assets/twsearch-result%20-%202.csv)
 
-![Word Art - 3](https://user-images.githubusercontent.com/83092146/214978009-0b14cf73-3484-459b-a7ef-f87fcd75ef8a.png)
+![Word Art - 3](https://user-images.githubusercontent.com/83092146/214982315-0873d6bc-6e98-4974-a092-1ccbeba64dc3.png)
 This is the word cloud for the Washington DC
 [twsearch-result-3.csv](https://github.com/haochenmiao/twitter-wordcloud/blob/main/Assets/twsearch-result%20-%203.csv)
 
-![Word Art - 1](https://user-images.githubusercontent.com/83092146/214978071-80291701-41dd-4cc5-a49f-10cca74014ae.png)
-This is the word cloud for the Seattle
-[twsearch-result-1.csv](https://github.com/haochenmiao/twitter-wordcloud/blob/main/Assets/twsearch-result%20-%201.csv)
 
 
 
